@@ -1,0 +1,8 @@
+
+{
+  "name": "Prakriti EV - Sustainable Mobility",
+  "description": "A premium, modern web application for Prakriti EV, featuring high-performance electric scooters, smart technology, and a commitment to sustainable urban commuting in India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
